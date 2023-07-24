@@ -1,0 +1,20 @@
+{
+    "monthly_sessions": {
+      "Week": [
+        {
+          "Date": "7/23/2023",
+          "Video": "Group A",
+          "Fun Activity": "Group B" },
+        {
+          "Date": "7/30/2023",
+          "Video": "Group C",
+          "Fun Activity": "Group D"
+        },
+        {
+          "Date": "8/5/2023",
+          "Video": "Group E",
+          "Fun Activity": "Group F"
+        }
+      ]
+    }
+  }
